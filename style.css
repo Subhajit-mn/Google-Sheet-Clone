@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    
 }
 
 body {
@@ -188,6 +189,7 @@ body {
 }
 
 .address-col {
+    background-color: white;
     height: 2rem;
     width: 2rem;
     display: flex;
@@ -197,6 +199,7 @@ body {
 }
 
 .address-row {
+    background-color: white;
     height: 2rem;
     width: 5rem;
     border: 1px solid #dfe4ea;
